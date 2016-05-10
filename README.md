@@ -5,4 +5,6 @@ To install just type this two commands:
 
 sudo su
 
+chmod +x script.sh
+
 ./script.sh
