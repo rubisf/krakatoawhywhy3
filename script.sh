@@ -15,3 +15,4 @@ make
 sudo make install
 why-config
 why3 config
+why3 config --detect-provers
